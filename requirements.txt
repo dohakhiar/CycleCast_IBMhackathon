@@ -1,0 +1,8 @@
+scikit-learn>=1.2
+xgboost>=1.5
+lightgbm>=3.3
+category-encoders>=2.4
+pandas>=1.4
+numpy>=1.21
+seaborn>=0.11
+matplotlib>=3.5
